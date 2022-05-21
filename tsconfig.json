@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"]
+  },
+  "include": [
+    ".wrapper/types.d.ts",
+    "src/**/*.js",
+    "src/**/*.ts"
+  ]
+}

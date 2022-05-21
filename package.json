@@ -1,0 +1,17 @@
+{
+  "name": "mcmdlogger-script",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node ./.wrapper/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "colors": "^1.4.0",
+    "core-js": "^3.22.5",
+    "esbuild": "^0.14.39",
+    "esbuild-plugin-babel": "^0.2.3"
+  },
+  "type": "module"
+}
