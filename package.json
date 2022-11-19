@@ -9,8 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "colors": "^1.4.0",
-    "core-js": "^3.22.5",
-    "esbuild": "^0.14.39",
+    "core-js": "^3.26.1",
+    "esbuild": "^0.15.14",
     "esbuild-plugin-babel": "^0.2.3"
   },
   "type": "module"
