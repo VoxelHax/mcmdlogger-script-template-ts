@@ -137,4 +137,5 @@ declare interface Player extends PlayerEventEmitter {
     fakegm(gamemode: number): OperationResult
     deaf(deaf: boolean): boolean
     mute(mute: boolean): boolean
+    getCoords(): { x: number, y: number, z: number, onGround: boolean, sinceUpdate: number } | null
 }
